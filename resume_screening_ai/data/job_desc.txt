@@ -1,0 +1,20 @@
+Looking for Python AI Developer with experience in ML, NLP, and data engineering.
+Python developer needed for AI and ML model building and deployment.
+Hiring machine learning engineer with experience in deep learning frameworks.
+Python backend developer required for Django and REST API projects.
+AI programmer with strong Python and data analytics skills.
+Java backend developer required with Spring Boot and enterprise API experience.
+Looking for experienced Java developer for microservices and Hibernate ORM.
+Java backend engineer with database management and system architecture knowledge.
+Java backend developer for REST API design and development projects.
+Hiring senior Java engineer for enterprise backend applications.
+Frontend developer required with React, JavaScript, HTML, and CSS experience.
+Web developer needed for Angular and responsive frontend design.
+UI/UX engineer with expertise in React and modern JavaScript frameworks.
+Frontend programmer with experience in building interactive web apps.
+React developer required for responsive UI and frontend web projects.
+Data scientist required for ML, NLP, and data visualization projects.
+Machine learning engineer needed for predictive modeling and large dataset analysis.
+AI & data scientist with experience in Python, Pandas, scikit-learn.
+ML specialist for recommendation systems and NLP-based projects.
+Data analyst/scientist required for data preprocessing, visualization, and ML modeling.

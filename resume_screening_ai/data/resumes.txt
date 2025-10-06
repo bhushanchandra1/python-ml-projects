@@ -1,0 +1,20 @@
+Experienced Python developer skilled in Flask, Pandas, and building AI/ML models.
+Python AI engineer with strong experience in NLP and data preprocessing.
+Machine learning engineer experienced in TensorFlow, PyTorch, and model deployment.
+Python backend developer with experience in Django and REST APIs.
+Python programmer skilled in data analytics and AI model development.
+Java backend developer with experience in Spring Boot and REST API design.
+Senior Java developer experienced in microservices and Hibernate ORM.
+Java engineer skilled in backend architecture and database management.
+Backend developer with Java, Spring framework, and API development experience.
+Experienced Java software engineer working on enterprise backend systems.
+Frontend developer skilled in React, JavaScript, HTML, and CSS.
+Web developer experienced in Angular and modern frontend frameworks.
+UI/UX engineer with strong JavaScript and React experience.
+Frontend programmer skilled in building responsive web applications.
+React developer with expertise in modern web technologies and interactive UI.
+Data scientist with experience in machine learning, NLP, and data visualization.
+ML engineer skilled in predictive modeling and large dataset analysis.
+AI & data scientist with experience in Python, Pandas, and scikit-learn.
+Machine learning specialist working on recommendation systems and NLP projects.
+Data analyst & scientist experienced in data preprocessing, visualization, and ML.

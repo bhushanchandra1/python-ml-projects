@@ -1,0 +1,12 @@
+streamlit
+flask
+requests
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+transformers
+pillow
+PyMuPDF
+python-docx
